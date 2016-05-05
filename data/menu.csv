@@ -1,0 +1,25 @@
+Item ID,Name,Description,Type,Price
+1234,THREE CHEESE GARLIC BREAD,"French bread topped with fresh garlic and a hot blend of Cheddar, Jack and Parmesan cheeses",STARTER,4.95
+1235,CHICKEN TENDERS,All white meat chicken tenders. Chipotle-Buffalo or original.,STARTER,8.35
+1236,BULLSEYE WINGS,"A half-dozen wings cooked crisp and tossed in your choice of Chipotle-Buffalo, Honey-Sriracha or Cholula-Buffalo sauce.",STARTER,7.8
+1237,JUMBO SHRIMP COCKTAIL,A half-dozen jumbo shrimp served with our house-made cocktail sauce.,STARTER,9.95
+1238,VEGETARIAN COBB SALAD,"Crisp chilled greens tossed with our house vinaigrette and layered with grilled asparagus, fresh avocado, tomato, Bleu cheese crumbles, sautéed onions and baby portabella mushrooms.",SALAD,12.5
+1239,BBQ CHOPPED CHICKEN,"BBQ chicken with diced tomato, black beans, corn, shredded cheese, tortilla strips, green onion and cilantro, piled atop a mix of chopped greens tossed with house-made ranch dressing. Topped with a drizzle of BBQ sauce.",SALAD,15
+1240,STEAKHOUSE BACON CHEESEBURGER,"Hand-formed, half-pound, Certified Angus Beef ground chuck, stacked high with Applewoodsmoked bacon, sharp Cheddar cheese and onion rings",BURGER,15
+1241,"CHICKEN, AVOCADO & BACON SANDWICH","Grilled chicken breast topped with Monterey Jack cheese, fresh avocado, tomato, Applewood-smoked bacon and creamy house-made Parmesan sauce",BURGER,16.5
+1242,TOP SIRLOIN CENTER-CUT ,"Naturally lean, well-flavored and moderately tender.",STEAK,21
+1243,RIBEYE STEAK,"Well-marbled, making this cut tender, juicy and extremely flavorful",STEAK,23
+1244,NEW YORK STRIP CENTER-CUT,"Hearty and robust, a perfect balance of flavor, texture and tenderness",STEAK,27.5
+1245,BBQ CHICKEN & RIBS,A grilled chicken breast and half rack of Baby Back Ribs both smothered in our smoky molasses BBQ sauce,CHICKEN,17.5
+1246,FIRE GRILLED CHICKEN BREASTS,"Two chicken breasts lightly marinated with fresh garlic, sage, parsley, thyme and a squeeze of lemon",CHICKEN,14.5
+1247,CISK PINT,,BEER,3.5
+1248,HEINEKEN,,BEER,2.5
+1249,BUDWIESER,,BEER,2.5
+1250,COCA COLA,,BEVERAGE,2.5
+1251,WATER 1L,,BEVERAGE,1.75
+1252,SPRITE,,BEVERAGE,2.5
+1253,KINNIE,,BEVERAGE,2.5
+1254,SQUARE COW COOLER,Absolut Mandarin Vodka and Malibu Coconut Rum with pineapple and cranberry juices,COCKTAIL,8.25
+1255,MOJITO ,"Bacardi LimO_n hand-shaken with fresh mint and fresh lime juice. Flavors: Classic, Pomegranate, Mango ",COCKTAIL,8.25
+1256,FROZEN STRAWBERRY DAIQUIRI,Blended with Bacardi Superior Rum and topped with whipped cream,COCKTAIL,8.25
+1257,ORGANIC AGAVE MARGARITA,"Don Julio Blanco, organic agave nectar, fresh lime and Patron Citronge",COCKTAIL,9.25
