@@ -1,0 +1,1 @@
+Temporary transfer files for CP Local Bonds brochure deployment. Delete after Lovable uploads A/B/C into Supabase storage.
